@@ -1,6 +1,8 @@
 # Implementation of language model decoding algorithms
 
-This repository contains implementations of several decoding algorithms for autoregressive language models. These methods are based on recent research papers and are not currently available in the `transformers` library. The implementations were developed for testing these algorithms in Russian-language syllabo-tonic poetry generation, with a focus on improving lexical diversity in creative text generation. These implementations may be useful for researchers working with language models and creative AI applications.
+This repository contains implementations of several decoding algorithms for autoregressive language models. These methods are based on recent research papers and are not currently available in the `transformers` library.
+
+The implementations were developed for testing these algorithms in Russian-language syllabo-tonic poetry generation, with a focus on improving lexical diversity in creative text generation. These implementations may be useful for researchers working with language models and creative AI applications.
 
 ## Nucleus Sampling with Flattened Head
 
